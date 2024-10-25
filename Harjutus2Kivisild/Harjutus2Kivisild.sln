@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjutus2Kivisild", "Harjutus2Kivisild.csproj", "{99942099-D2EF-42CC-B010-53B6035D5B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{DBED6479-09D4-4ECA-BD56-B4C8DDD86E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{CC2DA927-ED67-43BC-B362-BB1F062FBCE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99942099-D2EF-42CC-B010-53B6035D5B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99942099-D2EF-42CC-B010-53B6035D5B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99942099-D2EF-42CC-B010-53B6035D5B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99942099-D2EF-42CC-B010-53B6035D5B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBED6479-09D4-4ECA-BD56-B4C8DDD86E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBED6479-09D4-4ECA-BD56-B4C8DDD86E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBED6479-09D4-4ECA-BD56-B4C8DDD86E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBED6479-09D4-4ECA-BD56-B4C8DDD86E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2DA927-ED67-43BC-B362-BB1F062FBCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2DA927-ED67-43BC-B362-BB1F062FBCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2DA927-ED67-43BC-B362-BB1F062FBCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2DA927-ED67-43BC-B362-BB1F062FBCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3D62CE-8F08-4576-9F37-1CEC3250C627}
+	EndGlobalSection
+EndGlobal
